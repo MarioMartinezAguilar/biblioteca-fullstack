@@ -34,8 +34,8 @@
             //petición POST a la API
             const respuesta = await fetch(
                 editando
-                    ? `http://localhost:3300/books/${id}`
-                    : 'http://localhost:3300/books', 
+                    ? `https://biblioteca-fullstack-0kjh.onrender.com/books/${id}`
+                    : 'https://biblioteca-fullstack-0kjh.onrender.com/books', 
                 {
                     method: editando ? 'PUT' : 'POST',
                     headers:{

@@ -20,7 +20,7 @@
     //función para eliminar un libro 
    async function eliminarLibro(id){
         try {
-            const respuesta = await fetch(`http://localhost:3300/books/${id}`,{
+            const respuesta = await fetch(`https://biblioteca-fullstack-0kjh.onrender.com/books/${id}`,{
                 method:'DELETE'
 
             });
@@ -39,7 +39,7 @@
     }
   onMount( async () => {
     try {
-        const respuesta = await fetch('http://localhost:3300/books');
+        const respuesta = await fetch('https://biblioteca-fullstack-0kjh.onrender.com/books');
         const datos = await respuesta.json();
         
         libros = datos;
