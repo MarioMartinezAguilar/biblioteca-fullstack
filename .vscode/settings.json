@@ -1,0 +1,35 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#fd2828",
+        "activityBar.activeBorder": "#e7e7e7",
+        "activityBar.background": "#fd2828",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#02dd02",
+        "activityBarBadge.foreground": "#15202b",
+        "activityBarTop.activeBackground": "#fd2828",
+        "activityBarTop.activeBorder": "#e7e7e7",
+        "activityBarTop.background": "#fd2828",
+        "activityBarTop.foreground": "#e7e7e7",
+        "activityBarTop.inactiveForeground": "#e7e7e799",
+        "commandCenter.border": "#e7e7e799",
+        "commandCenter.foreground": "#e7e7e7",
+        "sash.hoverBorder": "#fd2828",
+        "statusBar.background": "#f00202",
+        "statusBar.debuggingBackground": "#f00202",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBar.inactiveBackground": "#f00202",
+        "statusBarItem.hoverBackground": "#fd2828",
+        "statusBarItem.remoteBackground": "#02dd02",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#f00202",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#f0020299",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#f00202",
+    "cSpell.words": [
+        "Exupéry"
+    ]
+}
