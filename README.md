@@ -49,7 +49,15 @@ Durante el desarrollo se trabajó con:
 
 ## 🌐 Aplicación desplegada
 
-El proyecto cuenta con un **frontend y un backend desplegados**, permitiendo probar la aplicación fuera del entorno local.
+El proyecto cuenta con un frontend y un backend desplegados, permitiendo utilizar la aplicación directamente desde internet.
+
+* 🌐 Frontend: https://biblioteca-fullstack.netlify.app/
+
+* ⚙️ Backend / API REST:https://biblioteca-fullstack-0kjh.onrender.com/books
+
+El frontend se encuentra desplegado en **Netlify**, mientras que el backend está alojado en **Render** y se conecta con MongoDB Atlas para la persistencia de los datos. 
+
+
 
 > Los enlaces de producción se agregarán una vez finalizado el despliegue.
 
@@ -190,8 +198,8 @@ En esta parte vamos a explicar como se debe instalar y ejecutar el proyecto por 
 
 ### 1. Clonar el repositorio
 ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd apirest-mongodb
+    git clone https://github.com/MarioMartinezAguilar/biblioteca-fullstack
+    cd biblioteca-fullstack
 ```
 
 ### 2. Instalar dependencias del backend
