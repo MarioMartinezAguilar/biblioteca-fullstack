@@ -57,10 +57,6 @@ El proyecto cuenta con un frontend y un backend desplegados, permitiendo utiliza
 
 El frontend se encuentra desplegado en **Netlify**, mientras que el backend está alojado en **Render** y se conecta con MongoDB Atlas para la persistencia de los datos. 
 
-
-
-> Los enlaces de producción se agregarán una vez finalizado el despliegue.
-
 ## 💻 Vista Principal
 La interfaz principal de la aplicación presenta la colección de libros registrados en una cuadrícula de tarjetas. Cada una muestra información relevante como el título,autor,género y fecha de publicación, además de las acciones disponibles para  editar o eliminar el libro. En la parte del header viene un botón donde nos da la opción de agregar nuestro libro favorito.
 
